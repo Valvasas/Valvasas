@@ -91,7 +91,7 @@
 
 <div align="center">
 
-*"UMKM naik kelas, dimulai dari satu baris kode."*
+*"Developer naik kelas, dimulai dari satu baris kode."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
